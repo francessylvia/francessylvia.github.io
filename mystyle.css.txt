@@ -12,6 +12,6 @@ font-family: Courier;
 
 .intro2{
 color:#F7FE2E;
-font-weight:italic;
+font-weight:oblique;
 font-family:Comicsans;
 }
