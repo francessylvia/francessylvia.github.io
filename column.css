@@ -1,0 +1,43 @@
+#header {
+    padding: 2px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#kiri {
+    width: 500px;
+    float: left;
+    text-align: left;
+    color: chocolate;
+    font-family: fantasy;
+    padding: 5px;
+}
+
+#tengah {
+    width: 500px;
+    float: left;
+    text-align: center;
+    color: aqua;
+    font-family: cursive;
+    padding: 5px;
+}
+
+#kanan {
+    width: 500px;
+    overflow: auto;
+    text-align: right;
+    color: red;
+    font-family: monospace;
+    padding: 5px;
+}
+
+#footer {
+    background-color: grey;
+    color: navajowhite;
+    clear: both;
+    text-align: center;
+    font-family: fantasy
+    padding: 2px;
+}
